@@ -1,6 +1,6 @@
    # EXAMEN FINAL FEBRERO/MARZO-26
    # REGULAR COMPLETO/INCOMPLETO
-   ## TODAS LAS TECNICATURAS
+   ## Todas las tecnicaturas: Comercio Interacional y Despacho Aduanero
    
    ## Comportamientos ecómicos de Fabricas locales de indumentaria escolar.
 
